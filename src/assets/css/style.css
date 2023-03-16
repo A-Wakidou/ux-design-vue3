@@ -1,0 +1,64 @@
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p, span {
+    font-weight: 500;
+}
+
+img, span {
+    vertical-align: middle;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+hr {
+    height: 1px;
+    border: none;
+    background-color: whitesmoke;
+}
+
+.bg-dark {
+    background-color: #323232;
+}
+
+.bg-tomato {
+    background-color: tomato;
+}
+
+.bg-whitesmoke {
+    background-color: whitesmoke;
+}
+
+.color-tomato {
+    color: tomato;
+}
+
+.button {
+    border: none;
+    width: 150px;
+    padding: 0.5rem 0;
+    color: white;
+    border-radius: 5px;
+    opacity: 0.95;
+}
+
+.button:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.page-container {
+    padding: 1rem 12.5rem;
+}
